@@ -1,8 +1,13 @@
+import { Metadata } from "next";
 import Image from "next/image";
 import clsx from "clsx";
 import LetsTalk from "@/components/ui/lets-talk";
 import Footer from "@/components/ui/footer";
 import Locations from "@/components/ui/locations";
+
+export const metadata: Metadata = {
+  title: "About",
+};
 
 const About = () => {
   return (

@@ -1,7 +1,12 @@
+import { Metadata } from "next";
 import Footer from "@/components/ui/footer";
 import LetsTalk from "@/components/ui/lets-talk";
 import clsx from "clsx";
 import Image from "next/image";
+
+export const metadata: Metadata = {
+  title: "Locations",
+};
 
 const Locations = () => {
   return (

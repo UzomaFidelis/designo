@@ -1,7 +1,12 @@
+import { Metadata } from "next";
 import clsx from "clsx";
 import Locations from "@/components/ui/locations";
 import Footer from "@/components/ui/footer";
 import ContactForm from "@/components/ui/contact-form";
+
+export const metadata: Metadata = {
+  title: "Contact",
+};
 
 const Contact = () => {
   return (

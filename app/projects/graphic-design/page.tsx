@@ -1,9 +1,14 @@
+import { Metadata } from "next";
 import clsx from "clsx";
 import Link from "next/link";
 import RightArrow from "@/components/icons/right-arrow";
 import LetsTalk from "@/components/ui/lets-talk";
 import Footer from "@/components/ui/footer";
 import ProjectCard from "@/components/ui/project-card";
+
+export const metadata: Metadata = {
+  title: "Graphic Design Projects",
+};
 
 export default function GraphicDesign() {
   return (

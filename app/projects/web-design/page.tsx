@@ -1,9 +1,14 @@
+import { Metadata } from "next";
 import clsx from "clsx";
 import ProjectCard from "@/components/ui/project-card";
 import Link from "next/link";
 import LetsTalk from "@/components/ui/lets-talk";
 import RightArrow from "@/components/icons/right-arrow";
 import Footer from "@/components/ui/footer";
+
+export const metadata: Metadata = {
+  title: "Web Design Projects",
+};
 
 export default function WebDesign() {
   return (
