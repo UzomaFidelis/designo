@@ -21,10 +21,8 @@ const Header = () => {
   //   }
   // });
   useEffect(() => {
-    if (isOpen) {
-      setIsOpen(false);
-    }
-  });
+    setIsOpen(false);
+  }, [pathname]);
 
   useEffect(() => {
     const handleOutsideNavClick = (e: MouseEvent) => {
