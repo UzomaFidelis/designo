@@ -13,7 +13,7 @@ const LetsTalk = () => {
     >
       <div>
         <h2 className={clsx("text-3xl font-semibold mb-5", "md:max-w-[18rem]")}>
-          Let's talk about your project
+          Let&apos;s talk about your project
         </h2>
         <p className={clsx("mb-5", "md:max-w-[30rem]")}>
           Ready to take it to the next level? Contact us today and find out how

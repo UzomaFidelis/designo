@@ -67,11 +67,11 @@ const About = () => {
               </h1>
               <p className={clsx("leading-[1.6]")}>
                 Founded in 2010, we are a creative agency that produces lasting
-                results for our clients. We've partnered with many startups,
-                corporations, and nonprofits alike to craft designs that make
-                real impact. We're always looking forward to creating brands,
-                products, and digital experiences that connect with our clients'
-                audiences.
+                results for our clients. We&apos;ve partnered with many
+                startups, corporations, and nonprofits alike to craft designs
+                that make real impact. We&apos;re always looking forward to
+                creating brands, products, and digital experiences that connect
+                with our clients&apos; audiences.
               </p>
             </div>
           </div>
@@ -136,7 +136,7 @@ const About = () => {
                   interested in form &mdash; content and meaning are just as
                   important. We give great inportance to craftsmanship, service,
                   and prompt delivery. Clients have always been impressed with
-                  our high-quality outcomes that encapsulates their brand's
+                  our high-quality outcomes that encapsulates their brand&apos;s
                   story and mission.
                 </p>
               </div>
@@ -196,8 +196,8 @@ const About = () => {
                 The real deal
               </h2>
               <p className={clsx("leading-[1.6] mb-7")}>
-                As strategic partners in our clients' businesses, we are ready
-                to take on any challenge as our own. Solving real problems
+                As strategic partners in our clients&apos; businesses, we are
+                ready to take on any challenge as our own. Solving real problems
                 require empathy and collaboration, and we strive to bring a
                 fresh perspective to every opportunity. We make design and
                 technology more accessible and give your tools to measure

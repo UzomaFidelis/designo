@@ -213,7 +213,7 @@ export default function Home() {
                   Everything that we do has a strategic purpose. We use an agile
                   approach in all of our projects and value customer
                   collaboration. It guarantees superior results that fulfill our
-                  clients' needs.
+                  clients&apos; needs.
                 </p>
               </div>
             </div>

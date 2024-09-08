@@ -24,7 +24,7 @@ const Header = () => {
     if (isOpen) {
       setIsOpen(false);
     }
-  }, [pathname]);
+  });
 
   useEffect(() => {
     const handleOutsideNavClick = (e: MouseEvent) => {

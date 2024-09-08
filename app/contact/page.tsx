@@ -37,10 +37,10 @@ const Contact = () => {
                   Contact Us
                 </h1>
                 <p className={clsx("leading-[1.6] mb-14")}>
-                  Ready to take it to the next level? Let's talk about your
+                  Ready to take it to the next level? Let&apos;s talk about your
                   project or idea and find out how we can help your business
-                  grow. If you are looking for unique digital experiences that's
-                  relatable to your users, drop us a line.
+                  grow. If you are looking for unique digital experiences
+                  that&apos;s relatable to your users, drop us a line.
                 </p>
               </div>
               <div className={clsx("shrink-0", "lg:basis-[25rem]")}>
